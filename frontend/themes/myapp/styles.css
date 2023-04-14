@@ -1,0 +1,8 @@
+@import url('./main-layout.css');
+@import url('./views/person-form-view.css');
+    [theme~="dark"] {
+      --lumo-primary-color: hsl(187, 86%, 55%);
+      --lumo-primary-color-50pct: hsla(187, 86%, 55%, 0.5);
+      --lumo-primary-color-10pct: hsla(187, 86%, 55%, 0.1);
+
+    }
